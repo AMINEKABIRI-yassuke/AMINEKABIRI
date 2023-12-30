@@ -1,15 +1,17 @@
-### Hi there 👋, my name is amine KABIRI
-#### A second year programming student
-(![logo univ](/Images/logo.png))
+# Hello, I'm Amine KABIRI! 👋
 
-Skills: HTML/ CSS / JS / PHP /SQL
+### About Me
+- 🎓 Second-year programming student.
+- 💻 Skills: HTML, CSS, JS, PHP, SQL, R&S, Network Administration, Cloud Computing, Storage.
+- 🌐 Certifications: CCNA, MCSA, MCITP, CCNP R&S.
 
-- 🔭 **b**
-- ✒  **b**
-- ✔ *i*
-- 👨🏽 *i*
-- ✨ ~~st~~
+### Projects
+- 🛠️ Developed over 30 projects in Cisco Packet Tracer.
+- 🌐 Created 10 large topologies in EVE-NG.
+- 💻 Coded various web applications.
 
+### Future Goals
+- 🚀 Aspiring Network Administrator.
 
-
-
+### Connect with Me
+- 📊 Explore my repositories and let's collaborate on exciting projects!
